@@ -2,11 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f0f8ff; /* Azul claro */
 }
 
 header {
-    background-color: #333;
+    background-color: #1e90ff; /* Azul dodoje */
     color: #fff;
     padding: 1rem;
 }
@@ -40,7 +40,7 @@ section {
 }
 
 footer {
-    background-color: #333;
+    background-color: #1e90ff; /* Azul dodoje */
     color: #fff;
     text-align: center;
     padding: 1rem;
@@ -58,12 +58,13 @@ form input {
     width: 100%;
     padding: 8px;
     margin-top: 5px;
+    border: 1px solid #1e90ff; /* Azul dodoje */
 }
 
 form button {
     margin-top: 15px;
     padding: 10px 15px;
-    background-color: #333;
+    background-color: #1e90ff; /* Azul dodoje */
     color: #fff;
     border: none;
     cursor: pointer;
